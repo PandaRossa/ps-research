@@ -30,3 +30,5 @@ For Each Hex, we define the Name used by ChunkViewer, and the name used by Binar
 | 0x33310003 | _N/A_ | TPK_InfoPart3 | Texture Info Part3 | [TextureInfoPart3](../textures/TextureInfoPart3.md)
 | 0x33310004 | _N/A_ | TPK_InfoPart4 | Texture Info Part4 | [TextureInfoPart4](../textures/TextureInfoPart4.md)
 | 0x33310005 | _N/A_ | TPK_InfoPart5 | Texture Info Part5 | [TextureInfoPart5](../textures/TextureInfoPart5.md)
+| 0x33320001 | _N/A_ | TPK_DataPart1 | Texture Data Part1 _(Unknown)_ | [TextureDataPart1](../textures/TextureDataPart1.md)
+| 0x33320002 | _N/A_ | TPK_DataPart2 | Texture Data Part2 _(Unknown)_ | [TextureDataPart2](../textures/TextureDataPart2.md)
